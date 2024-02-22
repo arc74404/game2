@@ -1,0 +1,10 @@
+^C:\USERS\ARSBO\SOURCE\REPOS\GAME2\BUILD\CMAKEFILES\39007F9D83931CF4B85B2C208C183A80\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/arsbo/source/repos/game2 -BC:/Users/arsbo/source/repos/game2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/arsbo/source/repos/game2/build/Game.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,45 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake
+C:/Users/arsbo/source/repos/game2/CMakeLists.txt
+C:/Users/arsbo/source/repos/game2/build/CMakeFiles/3.27.0-rc4/CMakeCCompiler.cmake
+C:/Users/arsbo/source/repos/game2/build/CMakeFiles/3.27.0-rc4/CMakeCXXCompiler.cmake
+C:/Users/arsbo/source/repos/game2/build/CMakeFiles/3.27.0-rc4/CMakeRCCompiler.cmake
+C:/Users/arsbo/source/repos/game2/build/CMakeFiles/3.27.0-rc4/CMakeSystem.cmake
+C:/Users/arsbo/source/repos/game2/cmake_scripts/add_sources.cmake
+C:/Users/arsbo/source/repos/game2/cmake_scripts/check_file.cmake
+C:/Users/arsbo/source/repos/game2/cmake_scripts/cmake_scripts.cmake
+C:/Users/arsbo/source/repos/game2/cmake_scripts/download_archive.cmake
+C:/Users/arsbo/source/repos/game2/cmake_scripts/prepare_file.cmake
+C:/Users/arsbo/source/repos/game2/cmake_scripts/prepare_lib.cmake
+C:/Users/arsbo/source/repos/game2/sources/app/app_sources.cmake
+C:/Users/arsbo/source/repos/game2/sources/gui/gui_sources.cmake
+C:/Users/arsbo/source/repos/game2/sources/player/player_sources.cmake
+C:/Users/arsbo/source/repos/game2/sources/sources.cmake
+C:/Users/arsbo/source/repos/game2/sources/world/world_sources.cmake
+C:/Users/arsbo/vcpkg/installed/x64-windows/share/sfml/SFMLConfig.cmake
+C:/Users/arsbo/vcpkg/installed/x64-windows/share/sfml/SFMLConfigDependencies.cmake
+C:/Users/arsbo/vcpkg/installed/x64-windows/share/sfml/SFMLConfigVersion.cmake
+C:/Users/arsbo/vcpkg/installed/x64-windows/share/sfml/SFMLSharedTargets-debug.cmake
+C:/Users/arsbo/vcpkg/installed/x64-windows/share/sfml/SFMLSharedTargets-release.cmake
+C:/Users/arsbo/vcpkg/installed/x64-windows/share/sfml/SFMLSharedTargets.cmake
+C:/Users/arsbo/vcpkg/scripts/buildsystems/vcpkg.cmake

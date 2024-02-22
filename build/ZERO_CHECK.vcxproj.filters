@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\arsbo\source\repos\game2\build\CMakeFiles\39007f9d83931cf4b85b2c208c183a80\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\arsbo\source\repos\game2\cmake_scripts\add_sources.cmake">
+      <Filter>Buildsystem Input Files\cmake_scripts</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\game2\cmake_scripts\check_file.cmake">
+      <Filter>Buildsystem Input Files\cmake_scripts</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\game2\cmake_scripts\cmake_scripts.cmake">
+      <Filter>Buildsystem Input Files\cmake_scripts</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\game2\cmake_scripts\download_archive.cmake">
+      <Filter>Buildsystem Input Files\cmake_scripts</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\game2\cmake_scripts\prepare_file.cmake">
+      <Filter>Buildsystem Input Files\cmake_scripts</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\game2\cmake_scripts\prepare_lib.cmake">
+      <Filter>Buildsystem Input Files\cmake_scripts</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\game2\sources\app\app_sources.cmake">
+      <Filter>Buildsystem Input Files\sources\app</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\game2\sources\gui\gui_sources.cmake">
+      <Filter>Buildsystem Input Files\sources\gui</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\game2\sources\player\player_sources.cmake">
+      <Filter>Buildsystem Input Files\sources\player</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\game2\sources\sources.cmake">
+      <Filter>Buildsystem Input Files\sources</Filter>
+    </None>
+    <None Include="C:\Users\arsbo\source\repos\game2\sources\world\world_sources.cmake">
+      <Filter>Buildsystem Input Files\sources\world</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2E20317B-36D4-3BAE-B8DD-65E8B3178F2E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\cmake_scripts">
+      <UniqueIdentifier>{99DB45BB-9050-34F1-AAF3-93CE8ECEFAC2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sources">
+      <UniqueIdentifier>{88B3253D-428B-3E3D-A94A-C72D19152425}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sources\app">
+      <UniqueIdentifier>{79C01B79-A256-3C99-908C-577223A8E6FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sources\gui">
+      <UniqueIdentifier>{19435824-ECB4-3961-94B5-F8901FC40AC4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sources\player">
+      <UniqueIdentifier>{A448AAF1-57AA-3F80-AA16-6FBF4D4EEB11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sources\world">
+      <UniqueIdentifier>{F757C62A-ED1E-3FC9-B9AA-D1DB455B70B3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
